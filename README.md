@@ -2,8 +2,8 @@
 
 
 - 📚 Data Science Masters Student at [Duke University](https://duke.edu/)
-- 👀 I’m interested in coding and Data Science
-- 💻  I have 4 years of work experience in Decison Analytics from [ZS](https://www.zs.com/)
+- 👀 I’m interested in Coding and Data Science
+- 💻  I have 4 years of work experience in Decison Analytics from [ZS Associates](https://www.zs.com/)
 - 📫 How to reach me **revanth7667@gmail.com**
   
 
@@ -14,7 +14,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
@@ -24,5 +24,6 @@
 <a href="https://instagram.com/revanth7667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revanth7667" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/revanth7667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="revanth7667" height="30" width="40" /></a>
 </p>
+
 
 
